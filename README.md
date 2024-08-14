@@ -28,15 +28,15 @@ Before you begin, ensure you have met the following requirements:
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/BarathKV/Wordscraft.git
     ```
 
 2. Import the project into your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse).
 
 3. Set up the MySQL database:
 
-    - Create a database named `blogging_app`.
-    - Run the SQL scripts provided in the `sql/` directory to create the necessary tables.
+    - Create a database named `wordscraft`.
+    - Run the SQL scripts provided in the `sql/` directory to create the necessary tables by following the sql file.
     - Update the database connection parameters in the Java code (if needed).
 
 4. Build and run the project from your IDE.
@@ -51,13 +51,18 @@ Before you begin, ensure you have met the following requirements:
 
 ## Screenshots
 
-| Login Screen | Sign Up Screen |
-|--------------|----------------|
-| ![Login Screen](screenshots/login.png) | ![Sign Up Screen](screenshots/signup.png) |
+### Login Screen
+![Login Screen](screenshots/login.png)
 
-| Write Blog Screen | Read Blogs Screen |
-|-------------------|-------------------|
-| ![Write Blog Screen](screenshots/write.png) | ![Read Blogs Screen](screenshots/blog.png) |
+### Sign Up Screen
+![Sign Up Screen](screenshots/signup.png)
+
+### Write Blog Screen
+![Write Blog Screen](screenshots/write.png)
+
+### Read Blogs Screen
+![Read Blogs Screen](screenshots/blog.png)
+
 
 ## Database Schema
 
