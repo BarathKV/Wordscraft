@@ -57,7 +57,7 @@ Before you begin, ensure you have met the following requirements:
 
 | Write Blog Screen | Read Blogs Screen |
 |-------------------|-------------------|
-| ![Write Blog Screen](screenshots/write_blog.png) | ![Read Blogs Screen](screenshots/read_blogs.png) |
+| ![Write Blog Screen](screenshots/write.png) | ![Read Blogs Screen](screenshots/blog.png) |
 
 ## Database Schema
 
@@ -68,14 +68,4 @@ Before you begin, ensure you have met the following requirements:
 
 Contributions are always welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions or feedback, please contact:
-
-- **Your Name**: [Your Email]
-- **GitHub**: [Your GitHub Profile]
 
